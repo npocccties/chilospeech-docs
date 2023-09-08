@@ -20,7 +20,7 @@
 
 * [1A．CHiBi-CHiLO登録データの入手（Wowza）](video/convert-wowza.md)
 * [1B．CHiBi-CHiLO登録データの入手（Vimeo）](video/convert-vimeo.md)
-* [\[参考\]変換に失敗した場合](video/fail-conversion.md)
+* [\[参考\]GitHubで変換に失敗した場合](video/fail-conversion.md)
 * [\[参考\] GitHubのファイル操作](video/github.md)
 
 ## Step3:CHiBi-CHiLOに登録 <a href="#chibi-chilo" id="chibi-chilo"></a>
