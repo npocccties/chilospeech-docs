@@ -1,1 +1,30 @@
-# chilospeech-docs
+---
+description: >-
+  CHiLO-Speechでは，マイクロソフト社製パワーポイントにナレーション原稿を記載すると，CHiBi-CHiLOに対応した合成音声付きビデオ教材を作成することができます．
+---
+
+# はじめに
+
+#### <img src=".gitbook/assets/image (421).png" alt="" data-size="line">CHiLO-Speechを使うためには，以下のものを準備して下さい
+
+1. [CHiBi-CHiLOに接続するLMSのアカウント](prepare/lms.md)
+2. [GitHubのアカウント](prepare/github.md)
+3. [パワーポイントデスクトップ版（Office2016以上）あるいはWeb版](prepare/powerpoint-1.md)
+
+#### <img src=".gitbook/assets/image (34).png" alt="" data-size="line">CHiLO-Speechを利用したビデオ教材作成の手順は次の通りとなります
+
+Step1：[パワーポイントにナレーションを記述する](broken-reference)
+
+Step2：[パワーポイントをGithubにアップロードしCHiBi-CHiLO登録データを入手する](broken-reference)
+
+Step3：[CHiBi-CHiLOに登録する](broken-reference)
+
+#### <img src=".gitbook/assets/image (326).png" alt="" data-size="line">CHiLO-Speechで作成するビデオ教材 <a href="#surusuraidobideo" id="surusuraidobideo"></a>
+
+CHiLO-Speechは，スライド毎に分割されたCHiBi-CHiLO対応の合成音声ビデオ教材を作成します．
+
+CHiBi-CHiLOではビデオ教材全体を**「ブック」**，スライド毎のビデオを**「トピック」**と呼んでいます．ブックとトピックの詳細については，以下をご確認下さい．
+
+CHiBi-CHiLOマニュアル：[基礎知識：ブックとトピック](https://docs.cccties.org/chibichilo/chibi-chilodeworu/topikkutobukku)
+
+![](<.gitbook/assets/image (143).png>)
