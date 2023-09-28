@@ -1,5 +1,8 @@
 Attribution 4.0 International
 
+Copyright (c) 2023 RCOS
+Copyright (c) 2023 NPO CCC-TIES
+
 =======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
