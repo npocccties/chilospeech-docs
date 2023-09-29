@@ -34,3 +34,4 @@
 ## その他 <a href="#other" id="other"></a>
 
 * [FAQ](other/faq.md)
+* [追記](other/zhui-ji.md)
