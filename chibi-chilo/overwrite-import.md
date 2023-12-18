@@ -27,7 +27,7 @@ description: 「データの上書きインポート」機能を使って，ブ�
 [convert-vimeo.md](../video/convert-vimeo.md)
 {% endcontent-ref %}
 
-❸LTI-MCを開き，データの上書きインポートを行いたいブックの編集アイコンをクリックします．
+❸CHiBi-CHiLOを開き，データの上書きインポートを行いたいブックの編集アイコンをクリックします．
 
 ![](../.gitbook/assets/overwrite-import\_01.png)
 
