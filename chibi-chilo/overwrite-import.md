@@ -14,7 +14,7 @@ description: 「データの上書きインポート」機能を使って，ブ�
 
 {% hint style="info" %}
 ブックの上書きインポートでは，トピック名の変更は行えません．\
-あらかじめLTI-MCのトピック名とパワーポイントノート部のTopic:を一致させるか，上書きインポートの手順終了後に手動でトピックを更新して書き換えてください．
+あらかじめCHiBi-CHiLOのトピック名とパワーポイントノート部のTopic:を一致させるか，上書きインポートの手順終了後に手動でトピックを更新して書き換えてください．
 {% endhint %}
 
 ❷以下いずれかの方法で，再度登録データの入手の操作を行います．
@@ -23,8 +23,8 @@ description: 「データの上書きインポート」機能を使って，ブ�
 [convert-wowza.md](../video/convert-wowza.md)
 {% endcontent-ref %}
 
-{% content-ref url="../video/convert-wasm.md" %}
-[convert-wasm.md](../video/convert-wasm.md)
+{% content-ref url="../video/convert-vimeo.md" %}
+[convert-vimeo.md](../video/convert-vimeo.md)
 {% endcontent-ref %}
 
 ❸LTI-MCを開き，データの上書きインポートを行いたいブックの編集アイコンをクリックします．
@@ -53,15 +53,15 @@ description: 「データの上書きインポート」機能を使って，ブ�
 [convert-wowza.md](../video/convert-wowza.md)
 {% endcontent-ref %}
 
-{% content-ref url="../video/convert-wasm.md" %}
-[convert-wasm.md](../video/convert-wasm.md)
+{% content-ref url="../video/convert-vimeo.md" %}
+[convert-vimeo.md](../video/convert-vimeo.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
 WASM版を使用する場合，「[step3: LTI-MC登録データ(zip形式)を作成します。](../video/convert-wasm.md#step3-lti-mcdtazipwoshimasu)」で，上書きインポートを行わないトピックのチェックは外して問題ありません．
 {% endhint %}
 
-❸LTI-MCを開き，データの上書きインポートを行いたいトピックの編集アイコンをクリックします．
+❸CHiBi-CHiLOを開き，データの上書きインポートを行いたいトピックの編集アイコンをクリックします．
 
 ![](../.gitbook/assets/overwrite-import\_04.png)
 
@@ -72,4 +72,3 @@ WASM版を使用する場合，「[step3: LTI-MC登録データ(zip形式)を作
 ❺「ファイルの選択」から❷で入手した登録データを選択し，「インポート」をクリックします．
 
 ![](../.gitbook/assets/overwrite-import\_06.png)
-
