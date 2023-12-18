@@ -29,7 +29,7 @@
 * [2．ブックタイトルの変更](chibi-chilo/2bukkutaitoruno.md)
 * [3．学習時間の設定](chibi-chilo/learning-time.md)
 * [4．LMSからの配信設定](chibi-chilo/lms.md)
-* [5．データの差し替え](chibi-chilo/replace-data.md)
+* [5．データの上書きインポート](chibi-chilo/overwrite-import.md)
 
 ## その他 <a href="#other" id="other"></a>
 
