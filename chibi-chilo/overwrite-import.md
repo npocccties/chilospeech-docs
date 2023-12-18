@@ -57,10 +57,6 @@ description: 「データの上書きインポート」機能を使って，ブ�
 [convert-vimeo.md](../video/convert-vimeo.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-WASM版を使用する場合，「[step3: LTI-MC登録データ(zip形式)を作成します。](../video/convert-wasm.md#step3-lti-mcdtazipwoshimasu)」で，上書きインポートを行わないトピックのチェックは外して問題ありません．
-{% endhint %}
-
 ❸CHiBi-CHiLOを開き，データの上書きインポートを行いたいトピックの編集アイコンをクリックします．
 
 ![](../.gitbook/assets/overwrite-import\_04.png)
