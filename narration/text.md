@@ -29,7 +29,7 @@ CHiBi-CHiLOで使用する音声合成では以下の設定ができます．記
 | CreatedAt | <p>作成日時。<br>指定しなかった場合は、PowerPointの作成日時が適用される。</p> | (なし) | CreatedAt:2015-02-16T00:00:00 | true  |
 | UpdatedAt | <p>更新日時<br>指定しなかった場合は、PowerPointの更新日時が適用される。</p>  | (なし) | UpdatedAt:2015-02-16T00:00:00 | true  |
 | Keywords | <p>トピックのキーワード。<br>半角のカンマ（,）区切りで複数記述可。</p>| (なし) | Keywords:Keyword1, Keyword2, Keyword3 | false |
-| BookKeywords | <p>ブックのキーワード。<br>半角のカンマ（,）区切りで複数記述可。</p>通常，最初のスライドに書いておけば問題ないが，複数のスライドに記載した場合は，その全てが反映される。| (なし) | BookKeywords: keyword1, keyword2, keyword3 |  |
+| BookKeywords | <p>ブックのキーワード。<br>半角のカンマ（,）区切りで複数記述可。</p>通常，最初のスライドに書いておけば問題ないが，複数のスライドに記載した場合は，その全てがブックに反映される。| (なし) | BookKeywords: keyword1, keyword2, keyword3 |  |
 | License |<p>トピックのライセンス。<br><a href="https://spdx.org/licenses/">SPDX License List</a>の"Identifier"に沿って記述する。</p> | (なし) | License:CC-BY-4.0 | true |
 
 ## ■ ナレーションスクリプト
