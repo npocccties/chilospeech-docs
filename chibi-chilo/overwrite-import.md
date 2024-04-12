@@ -17,14 +17,10 @@ description: 「データの上書きインポート」機能を使って，ブ�
 あらかじめCHiBi-CHiLOのトピック名とパワーポイントノート部のTopic:を一致させるか，上書きインポートの手順終了後に手動でトピックを更新して書き換えてください．
 {% endhint %}
 
-❷以下いずれかの方法で，再度登録データの入手の操作を行います．
+❷以下の方法で，再度登録データの入手の操作を行います．
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../video/convert-web.md" %}
+[convert-web.md](../video/convert-web.md)
 {% endcontent-ref %}
 
 ❸CHiBi-CHiLOを開き，データの上書きインポートを行いたいブックの編集アイコンをクリックします．
@@ -47,14 +43,10 @@ description: 「データの上書きインポート」機能を使って，ブ�
 * スライド本文を更新した場合，再度[画像の書き出し](../narration/save-powerpoint.md#2suraidonokishi)を行ったか
   * 画像の書き出しを行わない場合，更新後のビデオに表示されるスライドが古いままになってしまいます．
 
-❷以下いずれかの方法で，再度登録データの入手の操作を行います．
+❷以下の方法で，再度登録データの入手の操作を行います．
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../video/convert-web.md" %}
+[convert-web.md](../video/convert-web.md)
 {% endcontent-ref %}
 
 ❸CHiBi-CHiLOを開き，データの上書きインポートを行いたいトピックの編集アイコンをクリックします．
