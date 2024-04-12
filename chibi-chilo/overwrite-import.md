@@ -19,12 +19,12 @@ description: 「データの上書きインポート」機能を使って，ブ�
 
 ❷以下いずれかの方法で，再度登録データの入手の操作を行います．
 
-{% content-ref url="../video/convert-wowza.md" %}
-[convert-wowza.md](../video/convert-wowza.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../video/convert-vimeo.md" %}
-[convert-vimeo.md](../video/convert-vimeo.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ❸CHiBi-CHiLOを開き，データの上書きインポートを行いたいブックの編集アイコンをクリックします．
@@ -49,12 +49,12 @@ description: 「データの上書きインポート」機能を使って，ブ�
 
 ❷以下いずれかの方法で，再度登録データの入手の操作を行います．
 
-{% content-ref url="../video/convert-wowza.md" %}
-[convert-wowza.md](../video/convert-wowza.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../video/convert-vimeo.md" %}
-[convert-vimeo.md](../video/convert-vimeo.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ❸CHiBi-CHiLOを開き，データの上書きインポートを行いたいトピックの編集アイコンをクリックします．
