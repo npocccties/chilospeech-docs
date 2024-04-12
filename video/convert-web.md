@@ -14,7 +14,7 @@ FirefoxやSafariでは使用できませんのでご注意ください．
 
 音声合成ビデオ作成システムにアクセスすると，作成の手順や注意点が表示されます． **「STEP1：PPTの選択へ」** をクリックします．
 
-![](../.gitbook/assets/video\_convert-web\_01.png)
+<figure><img src="../.gitbook/assets/video_convert-web_01.png" alt=""><figcaption></figcaption></figure>
 
 ## STEP1：使用するパワーポイントファイルを選択する
 
@@ -22,11 +22,11 @@ FirefoxやSafariでは使用できませんのでご注意ください．
 
 **「ディレクトリを選択する」** をクリックして，変換したいパワーポイントのあるディレクトリを開きます．
 
-![](../.gitbook/assets/video\_convert-web\_02.png)
+<figure><img src="../.gitbook/assets/video_convert-web_02.png" alt=""><figcaption></figcaption></figure>
 
 **「サイトにファイルの読み取りを許可しますか？」** と表示されたら，**「ファイルを表示する」** を選択します．
 
-![](../.gitbook/assets/video\_convert-web\_03.png)
+<figure><img src="../.gitbook/assets/video_convert-web_03.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 一度この操作を行った後，今開いているディレクトリと別のディレクトリを選択したい場合は，画面をリロードしてください．
