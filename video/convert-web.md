@@ -1,3 +1,7 @@
+---
+description: 音声合成ビデオ作成システム（Web版）でパワーポイントを変換して，CHiBi-CHiLO登録データを入手してください．
+---
+
 # 1．CHiBi-CHiLO登録データの入手（Web版）
 
 {% hint style="warning" %}
