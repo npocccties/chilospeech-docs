@@ -14,7 +14,7 @@ FirefoxやSafariでは使用できませんのでご注意ください．
 
 音声合成ビデオ作成システムにアクセスすると，作成の手順や注意点が表示されます． **「STEP1：PPTの選択へ」** をクリックします．
 
-![](<.gitbook/assets/video_convert-web_01.png>)
+![](<../.gitbook/assets/video_convert-web_01.png>)
 
 ## Step1：使用するパワーポイントファイルを選択する
 
@@ -22,11 +22,11 @@ FirefoxやSafariでは使用できませんのでご注意ください．
 
 **「ディレクトリを選択する」** をクリックして，変換したいパワーポイントのあるディレクトリを開きます．
 
-![](<.gitbook/assets/video_convert-web_02.png>)
+![](<../.gitbook/assets/video_convert-web_02.png>)
 
 **「サイトにファイルの読み取りを許可しますか？」** と表示されたら，**「ファイルを表示する」** を選択します．
 
-![](<.gitbook/assets/video_convert-web_03.png>)
+![](<../.gitbook/assets/video_convert-web_03.png>)
 
 {% hint style="info" %}
 一度この操作を行った後，今開いているディレクトリと別のディレクトリを選択したい場合は，画面をリロードしてください．
@@ -36,7 +36,7 @@ FirefoxやSafariでは使用できませんのでご注意ください．
 
 ディレクトリ内にあるパワーポイントのファイル名一覧が表示されますので，変換したいパワーポイントを選択して， **「STEP2：ビデオの作成へ」** をクリックします．
 
-![](<.gitbook/assets/video_convert-web_04.png>)
+![](<../.gitbook/assets/video_convert-web_04.png>)
 
 ## Step2：STEP2：音声合成ビデオを作成する
 
@@ -48,10 +48,10 @@ FirefoxやSafariでは使用できませんのでご注意ください．
 
 **「ビデオを出力する」** をクリックすると，変換が始まります．
 
-![](<.gitbook/assets/video_convert-web_05.png>)
+![](<../.gitbook/assets/video_convert-web_05.png>)
 
 ### ビデオを保存する
 
 **「ビデオ教材が出力できました」** と表示されたら， **「ビデオを保存する」** をクリックすると，CHiBi-CHiLO登録データをダウンロードできます．ダウンロードした登録データは，Step1で選択したディレクトリにあります．
 
-![](<.gitbook/assets/video_convert-web_06.png>)
+![](<../.gitbook/assets/video_convert-web_06.png>)
