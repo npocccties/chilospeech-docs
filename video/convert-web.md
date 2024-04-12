@@ -38,7 +38,7 @@ FirefoxやSafariでは使用できませんのでご注意ください．
 
 ![](<../.gitbook/assets/video_convert-web_04.png>)
 
-## STEP2：STEP2：音声合成ビデオを作成する
+## STEP2：音声合成ビデオを作成する
 
 ### ビデオを出力する
 
