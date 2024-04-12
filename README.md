@@ -8,7 +8,7 @@ description: >-
 #### <img src=".gitbook/assets/image (421).png" alt="" data-size="line">CHiLO-Speechを使うためには，以下のものを準備して下さい
 
 1. [CHiBi-CHiLOに接続するLMSのアカウント](prepare/lms.md)
-2. [GitHubのアカウント](prepare/github.md)
+2. [GitHubのアカウント](broken-reference)
 3. [パワーポイントデスクトップ版（Office2016以上）あるいはWeb版](prepare/powerpoint-1.md)
 
 #### <img src=".gitbook/assets/image (34).png" alt="" data-size="line">CHiLO-Speechを利用したビデオ教材作成の手順は次の通りとなります

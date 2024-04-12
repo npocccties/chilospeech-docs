@@ -5,9 +5,8 @@
 ## 作業環境の準備 <a href="#prepare" id="prepare"></a>
 
 * [1．LMSのアカウントの準備](prepare/lms.md)
-* [2．GitHubアカウントの準備](prepare/github.md)
-* [3．パワーポイントへのアドイン登録](prepare/powerpoint-1.md)
-* [4．パワーポイントのオートフォーマット](prepare/powerpoint-2.md)
+* [2．パワーポイントへのアドイン登録](prepare/powerpoint-1.md)
+* [3．パワーポイントのオートフォーマット](prepare/powerpoint-2.md)
 
 ## Step1:ナレーションを記述 <a href="#narration" id="narration"></a>
 
@@ -20,6 +19,7 @@
 
 * [1．CHiBi-CHiLO登録データの入手](video/convert-web.md)
 * [\[参考\]変換に失敗した場合](video/fail-conversion.md)
+* [\[参考\] ファイル管理の用例](video/file-management.md)
 
 ## Step3:CHiBi-CHiLOに登録 <a href="#chibi-chilo" id="chibi-chilo"></a>
 
