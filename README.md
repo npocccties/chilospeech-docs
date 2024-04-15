@@ -12,11 +12,11 @@ description: >-
 
 #### <img src=".gitbook/assets/image (34).png" alt="" data-size="line">CHiLO-Speechを利用したビデオ教材作成の手順は次の通りとなります
 
-Step1：[パワーポイントにナレーションを記述する](narration/)
+Step1：[パワーポイントにナレーションを記述する](narration/describe.md)
 
-Step2：[パワーポイントをGithubにアップロードしCHiBi-CHiLO登録データを入手する](video/)
+Step2：[パワーポイントをGithubにアップロードしCHiBi-CHiLO登録データを入手する](video/convert-web.md)
 
-Step3：[CHiBi-CHiLOに登録する](chibi-chilo/)
+Step3：[CHiBi-CHiLOに登録する](chibi-chilo/registration.md)
 
 #### <img src=".gitbook/assets/image (326).png" alt="" data-size="line">CHiLO-Speechで作成するビデオ教材 <a href="#surusuraidobideo" id="surusuraidobideo"></a>
 
