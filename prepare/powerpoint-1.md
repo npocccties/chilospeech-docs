@@ -113,7 +113,7 @@ Web版パワーポイントはデスクトップ版と比較し，アドイン�
 
 ![](<../.gitbook/assets/image (77).png>)
 
-❾ **「Show Taskpane」** をクリックすると， アドインが表示されます．
+❾ **「CHiLO-Speech」** をクリックすると， アドインが表示されます．
 
 ![](<../.gitbook/assets/image (397).png>)
 {% endtab %}
