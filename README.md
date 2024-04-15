@@ -24,6 +24,6 @@ CHiLO-Speechは，スライド毎に分割されたCHiBi-CHiLO対応の合成音
 
 CHiBi-CHiLOではビデオ教材全体を **「ブック」** ，スライド毎のビデオを **「トピック」** と呼んでいます．ブックとトピックの詳細については，以下をご確認下さい．
 
-CHiBi-CHiLOマニュアル：[基礎知識：ブックとトピック](https://docs.cccties.org/chibichilo/chibi-chilodeworu/topikkutobukku)
+{% embed url="https://docs.cccties.org/chibichilo/chibichilo/contents" %}
 
 ![](<.gitbook/assets/image (143).png>)
