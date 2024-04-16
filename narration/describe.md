@@ -152,4 +152,4 @@ SSMLタグやSpeechMarkdownの詳細は以下を参照してください．
 
 その他の記法は以下を参照してください．
 
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)（外部サイトに移動）\
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)（外部サイトに移動）
