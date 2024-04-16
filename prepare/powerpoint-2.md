@@ -6,13 +6,13 @@
 
 {% tabs %}
 {% tab title="Web版の場合" %}
-### 【Web版の場合】
+#### 【Web版の場合】
 
 自動的に変換されないため，設定は不要です．
 {% endtab %}
 
 {% tab title="デスクトップ版・Windows の場合" %}
-### 【デスクトップ版・Windows の場合】
+#### 【デスクトップ版・Windows の場合】
 
 ❶ パワーポイントを起動します．
 
@@ -28,7 +28,7 @@
 {% endtab %}
 
 {% tab title="デスクトップ版・macOS の場合" %}
-### 【デスクトップ版・macOS の場合】 <a href="#macosno" id="macosno"></a>
+#### 【デスクトップ版・macOS の場合】 <a href="#macosno" id="macosno"></a>
 
 ❶ パワーポイントを起動します．
 

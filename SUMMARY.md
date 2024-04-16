@@ -24,7 +24,7 @@
 ## Step3:CHiBi-CHiLOに登録 <a href="#chibi-chilo" id="chibi-chilo"></a>
 
 * [1．CHiBi-CHiLOに登録](chibi-chilo/registration.md)
-* [2．ブックタイトルの変更](chibi-chilo/2bukkutaitoruno.md)
+* [2．ブックタイトルの変更](chibi-chilo/book-title.md)
 * [3．学習時間の設定](chibi-chilo/learning-time.md)
 * [4．LMSからの配信設定](chibi-chilo/lms.md)
 * [5．データの上書きインポート](chibi-chilo/overwrite-import.md)

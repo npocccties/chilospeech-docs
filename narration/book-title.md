@@ -10,19 +10,19 @@ description: CHiBi-CHiLOに登録したときのブック（ビデオ教材）�
 
 {% tabs %}
 {% tab title="Web版の場合" %}
-### 【Web版の場合】
+#### 【Web版の場合】
 
 Web版パワーポイントでは，ブックタイトルの設定は行なえません．
 
 代わりに後の工程（STEP3）でブックタイトルを設定できます．詳しくは以下をご覧ください．
 
-{% content-ref url="../chibi-chilo/2bukkutaitoruno.md" %}
-[2bukkutaitoruno.md](../chibi-chilo/2bukkutaitoruno.md)
+{% content-ref url="../chibi-chilo/book-title.md" %}
+[book-title.md](../chibi-chilo/book-title.md)
 {% endcontent-ref %}
 {% endtab %}
 
 {% tab title="デスクトップ版・Windows の場合" %}
-### 【デスクトップ版・Windows の場合】
+#### 【デスクトップ版・Windows の場合】
 
 ❶ パワーポイントのメニューの **「ファイル」→「情報」** を表示します．
 
@@ -32,7 +32,7 @@ Web版パワーポイントでは，ブックタイトルの設定は行なえ�
 {% endtab %}
 
 {% tab title="デスクトップ版・macOS の場合" %}
-### 【デスクトップ版・macOS の場合】
+#### 【デスクトップ版・macOS の場合】
 
 ❶ パワーポイントのメニューの **「ファイル」→「プロパティ」** を表示します．
 
