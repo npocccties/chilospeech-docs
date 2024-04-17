@@ -22,4 +22,4 @@ description: >-
 
 ❹ 画面下部の **「更新」** をクリックします．
 
-![](<../.gitbook/assets/image (101).png>)
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
