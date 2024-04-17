@@ -25,15 +25,15 @@ description: 「データの上書きインポート」機能を使って，ブ�
 
 ❸CHiBi-CHiLOを開き，データの上書きインポートを行いたいブックの編集アイコンをクリックします．
 
-![](../.gitbook/assets/overwrite-import\_01.png)
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ❹ブック「（ブック名）」の編集の右側にある **「上書きインポート」** をクリックします．
 
-![](../.gitbook/assets/overwrite-import\_02.png)
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ❺「ファイルの選択」から❷で入手した登録データを選択し， **「インポート」** をクリックします．
 
-![](../.gitbook/assets/overwrite-import\_03.png)
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ## トピックの上書きインポート
 
@@ -51,12 +51,12 @@ description: 「データの上書きインポート」機能を使って，ブ�
 
 ❸CHiBi-CHiLOを開き，データの上書きインポートを行いたいトピックの編集アイコンをクリックします．
 
-![](../.gitbook/assets/overwrite-import\_04.png)
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ❹トピックの編集の右側にある **「上書きインポート」** をクリックします．
 
-![](../.gitbook/assets/overwrite-import\_05.png)
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ❺「ファイルの選択」から❷で入手した登録データを選択し， **「インポート」** をクリックします．
 
-![](../.gitbook/assets/overwrite-import\_06.png)
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
