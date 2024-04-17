@@ -46,4 +46,4 @@ LMSにアクセスし，外部ツールを設定してCHiBi-CHiLOにアクセス
 
 ❹ また，グローバルメニューの **「トピック」** をクリックして，[Step1：1．ナレーションの記述](../narration/describe.md#1no)で設定したトピックが登録されていることを確認します．
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
