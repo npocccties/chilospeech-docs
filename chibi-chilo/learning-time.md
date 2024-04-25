@@ -13,7 +13,7 @@ description: >-
 
 ❸ 変更するトピックの **「ペンマーク」** をクリックして，トピック編集画面を表示します．
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (40).png>)
 
 ### （2）学習時間を設定する
 
@@ -23,4 +23,4 @@ description: >-
 
 ❸ 同様に **すべてのトピック** の学習時間を設定します．
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (287).png>)

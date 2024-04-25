@@ -41,33 +41,33 @@ Web版パワーポイントはデスクトップ版と比較し，アドイン�
 
 {% tabs %}
 {% tab title="Web版の場合" %}
-#### 【Web版の場合】
+**【Web版の場合】**
 
-#### （3）パワーポイントの設定
+**（3）パワーポイントの設定**
 
 ❶ OneDriveにアクセスし，パワーポイントを開きます．
 
 * アカウントをお持ちの方はから<img src="../.gitbook/assets/image (390).png" alt="" data-size="line">[**こちら**](https://www.office.com/launch/powerpoint?auth=2)からOneDriveアクセスできます．
 
-![](<../.gitbook/assets/image (6).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-❷ パワーポイントメニューの **「ホーム」→「アドイン」→「その他のアドイン」** を選択します． **「アドイン」** のメニューが表示されない場合は，メニュー右下の<img src="../.gitbook/assets/image (306).png" alt="" data-size="line">マークをクリックしてリボンを表示して下さい．
+❷ パワーポイントメニューの **「ホーム」→「アドイン」** を選択します． **「アドイン」** のメニューが表示されない場合は，メニュー右下の<img src="../.gitbook/assets/image (306).png" alt="" data-size="line">マークをクリックしてリボンを表示して下さい．
 
-❸ **「個人用アドイン」** メニューで **「マイ アドインのアップロード」** をクリックします．
+❸ **「個人アドイン」** メニューで **「アドインのアップロード」** をクリックします．
 
-![](<../.gitbook/assets/image (5).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ❹ **「参照」** をクリックして，保存したマニフェストファイルを選択し， **「アップロード」** をクリックします．
 
 ❺ ホームに追加される **「CHiLO-Speech」** をクリックすると， アドインが表示されます．
 
-![](<../.gitbook/assets/image (164).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="デスクトップ版・Windows の場合" %}
-#### 【デスクトップ版・Windows の場合】
+**【デスクトップ版・Windows の場合】**
 
-#### （3）マニフェストファイルの設定
+**（3）マニフェストファイルの設定**
 
 ❶ 作成したmanifestフォルダを右クリックしてプルダウンメニューを表示し， **「プロパティ(R)」** 選択します．
 
@@ -89,7 +89,7 @@ Web版パワーポイントはデスクトップ版と比較し，アドイン�
 
 ![](<../.gitbook/assets/image (195).png>)
 
-#### （4）パワーポイントの設定
+**（4）パワーポイントの設定**
 
 ❶ パワーポイントを起動します．
 
@@ -111,7 +111,7 @@ Web版パワーポイントはデスクトップ版と比較し，アドイン�
 
 ❽ Officeアドインダイアログボックス **「共有フォルダー」** タブを選択し， **「CHiLO-Speech」** を選択して **「追加」** をクリックします．
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ❾ **「CHiLO-Speech」** をクリックすると， アドインが表示されます．
 
@@ -119,9 +119,9 @@ Web版パワーポイントはデスクトップ版と比較し，アドイン�
 {% endtab %}
 
 {% tab title="デスクトップ版・macOS の場合" %}
-#### 【デスクトップ版・macOS の場合】
+**【デスクトップ版・macOS の場合】**
 
-#### （3）フォルダ作成
+**（3）フォルダ作成**
 
 ❶ DockのLanchpadから **「ターミナル」** と検索してターミナルを開きます．
 
@@ -139,15 +139,13 @@ mkdir ${HOME}/Library/Containers/com.microsoft.Powerpoint/Data/Documents/wef
 open ${HOME}/Library/Containers/com.microsoft.Powerpoint/Data/Documents/wef
 ```
 
-
-
-#### （4）マニフェストファイルの移動
+**（4）マニフェストファイルの移動**
 
 Finderで開いたフォルダに取得したマニフェストファイルを移動します．
 
 ![](<../.gitbook/assets/image (396).png>)
 
-#### （5）アドインの設定
+**（5）アドインの設定**
 
 ❶ パワーポイントを起動します．
 
