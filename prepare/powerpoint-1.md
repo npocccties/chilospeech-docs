@@ -29,10 +29,6 @@ Web版パワーポイントはデスクトップ版と比較し，アドイン�
 
 <figure><img src="../.gitbook/assets/prepare-powerpoint-1_01.png" alt=""><figcaption></figcaption></figure>
 
-ファイルのダウンロード方法については，以下をご覧ください．
-
-* [\[参考\] GitHubのファイル操作 - ファイルのダウンロード](broken-reference/)
-
 ### （2）マニフェストファイルの保存
 
 パソコンの任意の場所に **「manifest」** と言う名前のフォルダを作成し，そこに取得したマニフェストファイル（manifest.xml）を保存します．
