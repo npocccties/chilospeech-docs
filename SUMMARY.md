@@ -25,9 +25,8 @@
 
 * [1．CHiBi-CHiLOに登録](chibi-chilo/registration.md)
 * [2．ブックタイトルの変更](chibi-chilo/book-title.md)
-* [3．学習時間の設定](chibi-chilo/learning-time.md)
-* [4．LMSからの配信設定](chibi-chilo/lms.md)
-* [5．データの上書きインポート](chibi-chilo/overwrite-import.md)
+* [3．LMSからの配信設定](chibi-chilo/lms.md)
+* [4．データの上書きインポート](chibi-chilo/overwrite-import.md)
 
 ## その他 <a href="#other" id="other"></a>
 
