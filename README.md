@@ -20,7 +20,7 @@ Step3：[CHiBi-CHiLOに登録する](chibi-chilo/registration.md)
 
 #### <img src=".gitbook/assets/image (326).png" alt="" data-size="line">CHiLO-Speechで作成するビデオ教材 <a href="#surusuraidobideo" id="surusuraidobideo"></a>
 
-CHiLO-Speechは，スライド毎に分割されたCHiBi-CHiLO対応の合成音声ビデオ教材を作成します．
+CHiLO-Speechは，スライド毎に分割されたCHiBi-CHiLO対応の音声合成ビデオ教材を作成します．
 
 CHiBi-CHiLOではビデオ教材全体を **「ブック」** ，スライド毎のビデオを **「トピック」** と呼んでいます．ブックとトピックの詳細については，以下をご確認下さい．
 
