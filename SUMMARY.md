@@ -15,13 +15,13 @@
 * [3．パワーポイントの保存](narration/save-powerpoint.md)
 * [\[参考\] 音声合成用テキストの仕様](narration/text.md)
 
-## Step2:CHiBi-CHiLO登録データの入手 <a href="#video" id="video"></a>
+## Step2:合成音声ビデオに変換 <a href="#video" id="video"></a>
 
 * [1．CHiBi-CHiLO登録データの入手](video/convert-web.md)
 * [\[参考\]変換に失敗した場合](video/fail-conversion.md)
 * [\[参考\] ファイル管理の用例](video/file-management.md)
 
-## Step3:CHiBi-CHiLOに登録 <a href="#chibi-chilo" id="chibi-chilo"></a>
+## Step3:合成音声ビデオの登録 <a href="#chibi-chilo" id="chibi-chilo"></a>
 
 * [1．CHiBi-CHiLOに登録](chibi-chilo/registration.md)
 * [2．ブックタイトルの変更](chibi-chilo/book-title.md)
