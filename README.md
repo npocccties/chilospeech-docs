@@ -26,5 +26,4 @@ CHiBi-CHiLOではビデオ教材全体を **「ブック」** ，スライド毎
 
 {% embed url="https://docs.cccties.org/chibichilo/chibichilo/contents" %}
 
-![](<.gitbook/assets/image (143).png>)
- 
+<figure><img src=".gitbook/assets/image326-3.png" alt=""><figcaption></figcaption></figure>
