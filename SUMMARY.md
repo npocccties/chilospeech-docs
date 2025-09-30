@@ -17,7 +17,7 @@
 
 ## Step2:音声合成ビデオに変換 <a href="#video" id="video"></a>
 
-* [1．CHiBi-CHiLO登録データの入手](video/convert-web.md)
+* [音声合成ビデオの作成](video/convert-web.md)
 * [\[参考\]変換に失敗した場合](video/fail-conversion.md)
 * [\[参考\] ファイル管理の用例](video/file-management.md)
 

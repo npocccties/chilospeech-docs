@@ -2,7 +2,7 @@
 description: 音声合成ビデオ作成システムでパワーポイントを変換して，CHiBi-CHiLO登録データを入手してください．
 ---
 
-# 1．CHiBi-CHiLO登録データの入手
+# 音声合成ビデオの作成
 
 {% hint style="warning" %}
 音声合成ビデオ作成システムはGoogle Chrome・Microsoft Edgeのみ使用できます．
